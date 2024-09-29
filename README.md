@@ -1,4 +1,4 @@
-# Flask messaging app using websocket
+# FLASKI
 
 This is a #Flask messaging app# using websocket implemented using Flask, HTML, CSS, SQLAlchemy, and SocketIO.
 
@@ -26,11 +26,11 @@ Certainly! Here's a sample project description for your Discord clone:
 
 ---
 
-# Discord Clone
+# FLASKI
 
 **Overview:**
 
-This project is a simplified Discord clone developed using Flask, HTML, CSS, SQLAlchemy, and SocketIO. It aims to provide users with a real-time chat platform where they can register, authenticate, and communicate with friends seamlessly.
+This project is a simplified messaging app developed using Flask, HTML, CSS, SQLAlchemy, and SocketIO. It aims to provide users with a real-time chat platform where they can register, authenticate, and communicate with friends seamlessly.
 
 **Key Features:**
 
@@ -48,7 +48,7 @@ This project is a simplified Discord clone developed using Flask, HTML, CSS, SQL
 
 **Getting Started:**
 
-To run the Discord clone on your local machine, follow the installation and configuration instructions provided in the [Getting Started](#getting-started) section of the README.
+To run FLASKI on your local machine, follow the installation and configuration instructions provided in the [Getting Started](#getting-started) section of the README.
 
 **Contributing:**
 
