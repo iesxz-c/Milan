@@ -1,6 +1,6 @@
 # FLASKI
 
-This is a #Flask messaging app# using websocket implemented using Flask, HTML, CSS, SQLAlchemy, and SocketIO.
+This is a messaging app using websocket implemented using Flask, HTML, CSS, SQLAlchemy, and SocketIO.
 
 ## Features
 
