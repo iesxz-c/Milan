@@ -7,7 +7,6 @@ This is a messaging app using websocket implemented using Flask, HTML, CSS, SQLA
 - User authentication and registration
 - Real-time chat using SocketIO
 - Friend requests and friend list
-- ...
 
 ## Getting Started
 
@@ -20,13 +19,6 @@ Make sure you have the following installed:
 - Flask-SocketIO
 - SQLAlchemy
 
-### Description
-
-Certainly! Here's a sample project description for your Discord clone:
-
----
-
-# FLASKI
 
 **Overview:**
 
