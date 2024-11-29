@@ -1,6 +1,6 @@
-# FLASKI
+# MILAN
 
-This is a messaging app using websocket implemented using Flask, HTML, CSS, SQLAlchemy, and SocketIO.
+MILAN is a messaging app using websocket implemented using Flask, HTML, CSS, SQLAlchemy, and SocketIO.
 
 ## Features
 
@@ -22,7 +22,7 @@ Make sure you have the following installed:
 
 **Overview:**
 
-This project is a simplified messaging app developed using Flask, HTML, CSS, SQLAlchemy, and SocketIO. It aims to provide users with a real-time chat platform where they can register, authenticate, and communicate with friends seamlessly.
+MILAN is a simplified messaging app developed using Flask, HTML, CSS, SQLAlchemy, and SocketIO. It aims to provide users with a real-time chat platform where they can register, authenticate, and communicate with friends seamlessly.
 
 **Key Features:**
 
@@ -49,11 +49,3 @@ Contributions to the project are welcome! If you have suggestions, bug reports, 
 **License:**
 
 This project is open-source and licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for details.
-
-**Disclaimer:**
-
-This project is a learning exercise and not affiliated with or endorsed by Discord Inc.
-
----
-
-Feel free to customize the description based on the actual features and goals of your Discord clone project.
