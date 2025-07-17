@@ -19,7 +19,6 @@ Make sure you have the following installed:
 - Flask-SocketIO
 - SQLAlchemy
 
-
 **Overview:**
 
 MILAN is a simplified messaging app developed using Flask, HTML, CSS, SQLAlchemy, and SocketIO. It aims to provide users with a real-time chat platform where they can register, authenticate, and communicate with friends seamlessly.
